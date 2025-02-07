@@ -4,7 +4,7 @@ import subprocess
 def ensure_raylib_cloned():
     external_folder = "external"
     raylib_folder = os.path.join(external_folder, "raylib")
-    repo_url = "git@github.com:raysan5/raylib.git"
+    repo_url = "https://github.com/raysan5/raylib.git"
     
     if not os.path.exists(raylib_folder):
         print("raylib folder not found. Cloning repository...")
