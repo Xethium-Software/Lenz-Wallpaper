@@ -139,6 +139,8 @@ Lenz: external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/linux_joystic
 Lenz: external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o
 Lenz: CMakeFiles/Lenz.dir/build.make
 Lenz: external/raylib/raylib/libraylib.a
+Lenz: /usr/lib64/libX11.so
+Lenz: /usr/lib64/libXext.so
 Lenz: /usr/lib64/librt.a
 Lenz: /usr/lib64/libm.so
 Lenz: /usr/lib64/libOpenGL.so
